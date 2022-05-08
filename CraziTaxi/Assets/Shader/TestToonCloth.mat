@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: TestToonCloth
-  m_Shader: {fileID: -6465566751694194690, guid: 6af7e0fd72435c64dac61b9bdc450045, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 64c5b700bde279a4facce703de72cf89, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -31,8 +31,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Texture2D_4655750cc32549fd9cf2fe5843016738:
+        m_Texture: {fileID: 2800000, guid: e18b117a85c45f54bbf239fa208a7c92, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture2D_b2e3dbf58ca04fd4acc229d2d514d2d0:
         m_Texture: {fileID: 2800000, guid: e18b117a85c45f54bbf239fa208a7c92, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_b70ed6daedf64bb1a654c2b6a7b155c5:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_d1e7772dbbeb4d21bf271487beb2b07b:
@@ -97,6 +105,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_232ae2bacfda405e9d9f4a9a06393f21: 0
+    - Vector1_2764efb8fa5f43bd81cc4b049503f275: 0.5
+    - Vector1_2f51290f6c4042a4b630431b850c8624: 0
+    - Vector1_75c474289ebe4756a73f7b63329aa806: 5
+    - Vector1_a049cb8370b548388c07801abceafda4: 0
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -124,6 +136,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - Color_dca392bc947e46faaa973e5740440f63: {r: 1, g: 1, b: 1, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
